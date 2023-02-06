@@ -1,0 +1,4 @@
+github.com/google/tink/go v1.7.0 h1:6Eox8zONGebBFcCBqkVmt60LaWZa6xg1cl/DwAh/J1w=
+github.com/google/tink/go v1.7.0/go.mod h1:GAUOd+QE3pgj9q8VKIGTCP33c/B7eb4NhxLcgTJZStM=
+github.com/speps/go-hashids/v2 v2.0.1 h1:ViWOEqWES/pdOSq+C1SLVa8/Tnsd52XC34RY7lt7m4g=
+github.com/speps/go-hashids/v2 v2.0.1/go.mod h1:47LKunwvDZki/uRVD6NImtyk712yFzIs3UF3KlHohGw=
